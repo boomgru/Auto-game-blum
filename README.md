@@ -8,7 +8,7 @@ last update time: 22:25 10.06.2024
 Установите все библиотеки
 Запустите файл blume.py через консоль! Не через `IDLE  
 
-##Autor
+## Autor
 
 idea: TikTok
 coder: boomgru 
